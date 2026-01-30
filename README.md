@@ -67,36 +67,34 @@
 
 #### 🛡️ [Risk-Aware Face Verification System](https://github.com/debarnabdas007)
 > **Stack:** `Python` `OpenCV` `FastAPI`
-* Designed a **failure-aware pipeline** that validates image quality (blur/alignment) *before* inference.
-* Implemented explicit confidence thresholds to minimize false positives in biometric checks.
-* Deployed as a structured **REST API** with logging for edge-case tracking.
+* [cite_start]Designed a **failure-aware pipeline** that validates image quality (blur/alignment) *before* inference[cite: 13].
+* [cite_start]Implemented explicit confidence thresholds to minimize false positives in biometric checks[cite: 14].
+* [cite_start]Deployed as a structured **REST API** with logging for edge-case tracking[cite: 15].
 
 #### 📄 [Smart Resume Screener & Job Matcher](https://github.com/debarnabdas007)
 > **Stack:** `NLP` `Scikit-learn` `Flask` `Random Forest`
-* **Optimization:** Reduced model artifact size by **99% (440MB → 5MB)** while maintaining **98.45% accuracy**.
-* Built a "Semantic Match Score" using Cosine Similarity to quantify resume-job relevance.
-* Engineered a high-volume ingestion pipeline handling Regex cleaning and TF-IDF (3,000 features).
+* [cite_start]**Optimization:** Reduced model artifact size by **99% (440MB → 5MB)** while maintaining **98.45% accuracy**[cite: 19].
+* [cite_start]Built a "Semantic Match Score" using Cosine Similarity to quantify resume-job relevance[cite: 21].
+* [cite_start]Engineered a high-volume ingestion pipeline handling Regex cleaning and TF-IDF (3,000 features)[cite: 18].
 
 #### 🏙️ [Sahayak: Civic Tech Platform](https://github.com/debarnabdas007)
 > **Stack:** `Google Gemini API` `Flask` `OpenStreetMap`
-* Integrated **GenAI** to parse user complaints, auto-categorize issues, and extract entities.
-* Enabled precise infrastructure reporting via OpenStreetMap geolocation.
-* Built a rate-limited, environment-secure backend ensuring consistent uptime.
+* [cite_start]Integrated **GenAI** to parse user complaints, auto-categorize issues, and extract entities[cite: 26].
+* [cite_start]Enabled precise infrastructure reporting via OpenStreetMap geolocation[cite: 25].
+* [cite_start]Built a rate-limited, environment-secure backend ensuring consistent uptime[cite: 27].
 
 ---
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=debarnabdas007&show_icons=true&theme=radical&hide_border=true&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=radical&hide_border=true&count_private=true" height="160" alt="languages graph" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=debarnabdas007&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=radical&hide_border=true" />
+</p>
 
-<br>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=debarnabdas007&theme=radical&hide_border=true" height="140" alt="streak graph" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=debarnabdas007&theme=radical&hide_border=true" />
+</p>
 
 ---
 
