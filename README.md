@@ -66,21 +66,21 @@
 ### 🚀 Featured Projects
 
 #### 🛡️ Risk-Aware Face Verification System
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/debarnabdas007) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)]([https://github.com/debarnabdas007](https://github.com/debarnabdas007/Risk-Aware-Face-Analyzer-RAFA)) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
 > **Stack:** `Python` `OpenCV` `FastAPI`
 * Designed a **failure-aware pipeline** that validates image quality (blur/alignment) *before* inference.
 * Implemented explicit confidence thresholds to minimize false positives in biometric checks.
 * Deployed as a structured **REST API** with logging for edge-case tracking.
 
 #### 📄 Smart Resume Screener & Job Matcher
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/debarnabdas007) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)]([https://github.com/debarnabdas007](https://github.com/debarnabdas007/RESUME-Screener)) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)]([YOUR_LIVE_LINK_HERE](https://vectorcv-ai.onrender.com))
 > **Stack:** `NLP` `Scikit-learn` `Flask` `Random Forest`
 * **Optimization:** Reduced model artifact size by **99% (440MB → 5MB)** while maintaining **98.45% accuracy**.
 * Built a "Semantic Match Score" using Cosine Similarity to quantify resume-job relevance.
 * Engineered a high-volume ingestion pipeline handling Regex cleaning and TF-IDF (3,000 features).
 
 #### 🏙️ Sahayak: Civic Tech Platform
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/debarnabdas007) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)]([https://github.com/debarnabdas007](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator)) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)]([YOUR_LIVE_LINK_HERE](https://sahayak-the-bureaucracy-automator.onrender.com))
 > **Stack:** `Google Gemini API` `Flask` `OpenStreetMap`
 * Integrated **GenAI** to parse user complaints, auto-categorize issues, and extract entities.
 * Enabled precise infrastructure reporting via OpenStreetMap geolocation.
