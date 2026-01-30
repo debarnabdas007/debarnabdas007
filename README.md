@@ -65,23 +65,26 @@
 
 ### 🚀 Featured Projects
 
-#### 🛡️ [Risk-Aware Face Verification System](https://github.com/debarnabdas007)
+#### 🛡️ Risk-Aware Face Verification System
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/debarnabdas007) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
 > **Stack:** `Python` `OpenCV` `FastAPI`
-* [cite_start]Designed a **failure-aware pipeline** that validates image quality (blur/alignment) *before* inference[cite: 13].
-* [cite_start]Implemented explicit confidence thresholds to minimize false positives in biometric checks[cite: 14].
-* [cite_start]Deployed as a structured **REST API** with logging for edge-case tracking[cite: 15].
+* Designed a **failure-aware pipeline** that validates image quality (blur/alignment) *before* inference.
+* Implemented explicit confidence thresholds to minimize false positives in biometric checks.
+* Deployed as a structured **REST API** with logging for edge-case tracking.
 
-#### 📄 [Smart Resume Screener & Job Matcher](https://github.com/debarnabdas007)
+#### 📄 Smart Resume Screener & Job Matcher
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/debarnabdas007) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
 > **Stack:** `NLP` `Scikit-learn` `Flask` `Random Forest`
-* [cite_start]**Optimization:** Reduced model artifact size by **99% (440MB → 5MB)** while maintaining **98.45% accuracy**[cite: 19].
-* [cite_start]Built a "Semantic Match Score" using Cosine Similarity to quantify resume-job relevance[cite: 21].
-* [cite_start]Engineered a high-volume ingestion pipeline handling Regex cleaning and TF-IDF (3,000 features)[cite: 18].
+* **Optimization:** Reduced model artifact size by **99% (440MB → 5MB)** while maintaining **98.45% accuracy**.
+* Built a "Semantic Match Score" using Cosine Similarity to quantify resume-job relevance.
+* Engineered a high-volume ingestion pipeline handling Regex cleaning and TF-IDF (3,000 features).
 
-#### 🏙️ [Sahayak: Civic Tech Platform](https://github.com/debarnabdas007)
+#### 🏙️ Sahayak: Civic Tech Platform
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/debarnabdas007) [![Live](https://img.shields.io/badge/Live-Demo-FF5722?style=flat-square&logo=safari&logoColor=white)](YOUR_LIVE_LINK_HERE)
 > **Stack:** `Google Gemini API` `Flask` `OpenStreetMap`
-* [cite_start]Integrated **GenAI** to parse user complaints, auto-categorize issues, and extract entities[cite: 26].
-* [cite_start]Enabled precise infrastructure reporting via OpenStreetMap geolocation[cite: 25].
-* [cite_start]Built a rate-limited, environment-secure backend ensuring consistent uptime[cite: 27].
+* Integrated **GenAI** to parse user complaints, auto-categorize issues, and extract entities.
+* Enabled precise infrastructure reporting via OpenStreetMap geolocation.
+* Built a rate-limited, environment-secure backend ensuring consistent uptime.
 
 ---
 
