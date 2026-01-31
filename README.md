@@ -21,8 +21,8 @@
 
 <div align="center">
   <p>
-    [cite_start]CS Undergraduate building <b>deployable ML systems</b> with a focus on <b>regression</b>, <b>computer vision</b>, and <b>API-based inference</b>[cite: 44]. <br>
-    [cite_start]I engineer failure-aware pipelines and robust backends, prioritizing system reliability over happy-path metrics[cite: 44, 52].
+    CS Undergraduate building <b>deployable ML systems</b> with a focus on <b>regression</b>, <b>computer vision</b>, and <b>API-based inference</b>. <br>
+    I engineer failure-aware pipelines and robust backends, prioritizing system reliability over happy-path metrics.
   </p>
 </div>
 
@@ -64,37 +64,39 @@
 ### 🚀 Featured Projects
 
 #### ✈️ **AEGIS AERO: Predictive Maintenance System**
-> [cite_start]*End-to-end PdM system estimating jet engine RUL (RMSE: 44.05) using XGBoost & MLOps[cite: 55, 57].*
-> [cite_start]* **Innovation:** Solved "Cold Start" issues using Steady-State Assumption logic[cite: 59].
+> *End-to-end PdM system estimating jet engine RUL (RMSE: 44.05) using XGBoost & MLOps.*
+> * **Innovation:** Solved "Cold Start" issues using Steady-State Assumption logic.
 > * **Tech:** `XGBoost` `Flask` `Rolling Statistics` `MLOps`
 
 [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](YOUR_GITHUB_LINK) [![Live](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](YOUR_LIVE_LINK)
 
 #### 🛡️ **Risk-Aware Face Verification**
-> [cite_start]*Biometric pipeline that pre-validates image quality (blur/alignment) to reject poor inputs[cite: 50, 52].*
-> [cite_start]* **Innovation:** Implemented explicit confidence thresholds to minimize false positives[cite: 53].
+> *Biometric pipeline that pre-validates image quality (blur/alignment) to reject poor inputs.*
+> * **Innovation:** Implemented explicit confidence thresholds to minimize false positives.
 > * **Tech:** `OpenCV` `FastAPI` `Python`
 
 [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](YOUR_GITHUB_LINK) [![Live](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](YOUR_LIVE_LINK)
 
 #### 🏙️ **Sahayak: Civic Tech Platform**
-> [cite_start]*Issue reporting platform integrating GenAI to auto-categorize complaints via OpenStreetMap[cite: 61, 63, 64].*
-> [cite_start]* **Innovation:** Automated entity extraction for authority dashboards[cite: 64].
+> *Issue reporting platform integrating GenAI to auto-categorize complaints via OpenStreetMap.*
+> * **Innovation:** Automated entity extraction for authority dashboards.
 > * **Tech:** `Google Gemini API` `Flask` `OpenStreetMap`
 
 [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](YOUR_GITHUB_LINK) [![Live](https://img.shields.io/badge/Live_Demo-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](YOUR_LIVE_LINK)
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub Activity
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=debarnabdas007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=debarnabdas007&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=debarnabdas007&theme=flat&no-frame=false&no-bg=true&margin-w=4" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/debarnabdas007/debarnabdas007/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
