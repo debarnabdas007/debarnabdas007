@@ -76,7 +76,7 @@
 > * **Solution:** Engineered a lightweight classical pipeline using **MOG2 background subtraction** + **KNN**.
 > * **Impact:** Achieved **88% Accuracy** with sub-second latency on standard CPUs.
 >
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](YOUR_GITHUB_LINK) [![Live](https://img.shields.io/badge/Live_Demo-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](YOUR_LIVE_LINK)
+> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Traffic-IQ) 
 
 #### ✈️ **AEGIS AERO: Predictive Maintenance Engine**
 > *Estimating Jet Engine Remaining Useful Life (RUL) with high precision.*
@@ -85,7 +85,7 @@
 > * **Solution:** Implemented **Steady-State Assumption logic** and rolling window statistics.
 > * **Impact:** Reduced error to **44.05 RMSE**, detecting failures without prior context.
 >
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](YOUR_GITHUB_LINK) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](YOUR_LIVE_LINK)
+> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/AEGIS_AERO) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aegis-aero.onrender.com)
 
 #### 🏙️ **Sahayak: Civic Intelligence Platform**
 > *Automated infrastructure reporting system powered by GenAI.*
@@ -94,7 +94,7 @@
 > * **Solution:** Integrated **Google Gemini API** to parse text and **OpenStreetMap** for precise geolocation.
 > * **Impact:** Fully automated categorization and entity extraction for authority dashboards.
 >
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](YOUR_GITHUB_LINK) [![Live](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](YOUR_LIVE_LINK)
+> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) [![Live](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com)
 
 ---
 
