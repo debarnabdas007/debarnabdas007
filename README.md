@@ -21,8 +21,8 @@
 
 <div align="center">
   <p>
-    CS Undergraduate focused on <b>Edge AI</b> and <b>deployable machine learning</b>. <br>
-    I specialize in engineering lightweight, CPU-optimized pipelines and robust backend systems that prioritize <b>practical reliability</b> over theoretical complexity.
+    CS undergraduate building <b>deployable machine learning systems</b> with a focus on practical problem-solving and reliability. <br>
+    Interested in <b>applied ML</b> and <b>scalable backend systems</b>.
   </p>
 </div>
 
