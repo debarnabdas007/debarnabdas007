@@ -85,8 +85,6 @@
 > * **Solution:** Engineered 42 temporal features (rolling windows) for an **XGBoost Regressor** and implemented **Steady-State Assumption logic** to handle missing historical context.
 > * **Impact:** Shrank the serialized artifact by **96% (162MB to 5.5MB)** to enable deployment via a Flask backend, while maintaining a robust **44.05 RMSE**.
 >
-> **Tech Stack:** `Python` • `Scikit-Learn` • `XGBoost` • `Flask` • `Render`
->
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction.git) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aircraft-engine-rul-prediction.onrender.com)
 
 #### 🏙️ **Sahayak: Civic Intelligence Platform**
