@@ -79,13 +79,15 @@
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Traffic-IQ) 
 
 #### ✈️ **AEGIS AERO: Predictive Maintenance Engine**
-> *Estimating Jet Engine Remaining Useful Life (RUL) with high precision.*
+> *Estimating Jet Engine Remaining Useful Life (RUL) with high precision under strict cloud constraints.*
 >
-> **The Engineering Challenge:** Raw telemetry data was noisy, and "Cold Start" scenarios caused prediction failures.
-> * **Solution:** Implemented **Steady-State Assumption logic** and rolling window statistics.
-> * **Impact:** Reduced error to **44.05 RMSE**, detecting failures without prior context.
+> **The Engineering Challenge:** Deploying a complex predictive model into a strictly 512MB RAM environment, while handling noisy telemetry and "Cold Start" inference scenarios.
+> * **Solution:** Engineered 42 temporal features (rolling windows) for an **XGBoost Regressor** and implemented **Steady-State Assumption logic** to handle missing historical context.
+> * **Impact:** Shrank the serialized artifact by **96% (162MB to 5.5MB)** to enable deployment via a Flask backend, while maintaining a robust **44.05 RMSE**.
 >
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/AEGIS_AERO) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aegis-aero.onrender.com)
+> **Tech Stack:** `Python` • `Scikit-Learn` • `XGBoost` • `Flask` • `Render`
+>
+> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction.git) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aircraft-engine-rul-prediction.onrender.com)
 
 #### 🏙️ **Sahayak: Civic Intelligence Platform**
 > *Automated infrastructure reporting system powered by GenAI.*
