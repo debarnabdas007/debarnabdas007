@@ -22,7 +22,7 @@
 <div align="center">
   <p>
     CS undergraduate building <b>deployable machine learning systems</b> with a focus on practical problem-solving and reliability. <br>
-    Interested in <b>applied ML</b> and <b>Python backend systems</b>.
+    Interested in <b>applied ML</b>, <b>Data Science</b> and <b>Python backend systems</b>.
   </p>
 </div>
 
