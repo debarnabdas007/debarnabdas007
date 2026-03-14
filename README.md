@@ -81,7 +81,7 @@
 #### ✈️ **AEGIS AERO: Predictive Maintenance Engine**
 > *End-to-end ML pipeline: Estimating Jet Engine Remaining Useful Life (RUL) with high precision under strict cloud constraints.*
 >
-> **Signal Isolation (Noisy Sensors):** Engineered **42** temporal features—including **rolling window** statistics and lag-based slopes—to extract non-linear engine degradation trends from raw sensor data.
+> * **Signal Isolation (Noisy Sensors):** Engineered **42** temporal features—including **rolling window** statistics and lag-based slopes—to extract non-linear engine degradation trends from raw sensor data.
 > * **Cold-Start Inference:** Designed a **steady-state assumption pipeline** to dynamically simulate historical context, preventing backend crashes during single-row user inputs.
 > * **Impact:** Shrank the serialized artifact by **96% (162MB to 5.5MB)** to enable deployment via a Flask backend, while maintaining a robust **44.05 RMSE**.
 >
