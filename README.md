@@ -79,10 +79,10 @@
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Traffic-IQ) 
 
 #### ✈️ **AEGIS AERO: Predictive Maintenance Engine**
-> *Estimating Jet Engine Remaining Useful Life (RUL) with high precision under strict cloud constraints.*
+> *End-to-end ML pipeline: Estimating Jet Engine Remaining Useful Life (RUL) with high precision under strict cloud constraints.*
 >
-> **The Engineering Challenge:** Deploying a complex predictive model into a strictly 512MB RAM environment, while handling noisy telemetry and "Cold Start" inference scenarios.
-> * **Solution:** Engineered 42 temporal features (rolling windows) for an **XGBoost Regressor** and implemented **Steady-State Assumption logic** to handle missing historical context.
+> **Signal Isolation (Noisy Sensors):** Engineered **42** temporal features—including **rolling window** statistics and lag-based slopes—to extract non-linear engine degradation trends from raw sensor data.
+> * **Cold-Start Inference:** Designed a **steady-state assumption pipeline** to dynamically simulate historical context, preventing backend crashes during single-row user inputs.
 > * **Impact:** Shrank the serialized artifact by **96% (162MB to 5.5MB)** to enable deployment via a Flask backend, while maintaining a robust **44.05 RMSE**.
 >
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction.git) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aircraft-engine-rul-prediction.onrender.com)
