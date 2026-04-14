@@ -115,3 +115,5 @@
     <img src="https://visitcount.itsvg.in/api?id=debarnabdas007&icon=5&color=2" />
   </a>
 </div>
+
+![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blue&style=flat-square)
