@@ -116,4 +116,4 @@
   </a>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blue&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square)
