@@ -22,6 +22,9 @@
 <div align="center">
   <p>
     CSE undergrad building <b>deployable machine learning systems</b> with a focus on practical problem-solving and reliability. <br>
+    I don't just run notebooks. I build end-to-end pipelines: messy raw data in, reliable predictions out, deployed and working in the real world. My focus is on the fundamentals that actually matter — clean feature engineering, honest model evaluation, and knowing why something works before shipping it.<br>
+
+Currently deepening my knowledge in deep learning and actively looking for ML internship where I can contribute real value from day one.
     Interested in <b>applied ML</b>, <b>Data Science</b> and <b>Python backend systems</b>.
   </p>
 </div>
