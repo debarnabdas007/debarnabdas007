@@ -21,7 +21,7 @@
 
 <div align="center">
   <p>
-    <b>Building deployable ML systems that ship, not just demo notebooks.</b>
+    <b>Building deployable ML systems that ship, not just demo notebooks</b>
   </p>
   <p>
     Focused in <b>Applied ML</b>, <b>Data Science</b> and <b>Python Backends</b> --> Messy Data In -> Reliable Predictions Out -> Deployed APIs.<br>
