@@ -21,10 +21,11 @@
 
 <div align="center">
   <p>
-    <!-- CSE undergrad building <b>deployable machine learning systems</b> with a focus on practical problem-solving and reliability. <br>  -->
-    I don't just run notebooks. I build end-to-end pipelines: messy raw data in, reliable predictions out, deployed & working in the real world.<br>
-    My focus is on the fundamentals that actually matter -- clean feature engineering, honest model evaluation, and knowing why something works before shipping it.<br>
-    Interested in <b>applied ML</b>, <b>Data Science</b> and <b>Python backend systems</b>, with practical problem-solving and reliability.
+    <b>Building deployable ML systems that ship, not just demo notebooks.</b>
+  </p>
+  <p>
+    Focused in <b>Applied ML</b>, <b>Data Science</b> and <b>Python Backends</b> --> Messy Data In -> Reliable Predictions Out -> Deployed APIs.<br>
+    I care deeply about the fundamentals: clean feature engineering, rigorous evaluation, and shipping code that works.
   </p>
 </div>
 
