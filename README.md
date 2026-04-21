@@ -1,10 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Debarnab</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Debarnab+Das;DS,+ML+%26+Backend+Engineer;Optimizing+models+for+Low-latent+Devices;Building+Resilient+APIs" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=DS,+ML+%26+Backend+Engineer;Optimizing+models+for+Low-latent+Devices;Building+Resilient+APIs" alt="Typing SVG" />
-</div>
-
-<div align="center">
+<p align="center">
   <a href="https://linkedin.com/in/debarnab-das-5363942a0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
@@ -17,19 +15,13 @@
   <a href="https://kaggle.com/">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=flat&logo=Kaggle&logoColor=white" />
   </a>
-</div>
+</p>
 
-<br />
-
-<div align="center">
-  <p>
-    <b>Building deployable ML systems that ship, not just demo notebooks</b>
-  </p>
-  <p>
-    Focused in <b>Applied ML</b>, <b>Data Science</b> and <b>Python Backends</b> --> Messy Data In -> Reliable Predictions Out -> Deployed APIs.<br>
-    I care deeply about the fundamentals: clean feature engineering, rigorous evaluation, and shipping code that works.
-  </p>
-</div>
+<p align="center">
+  <b>Building deployable ML systems that ship, not just demo notebooks</b><br><br>
+  Focused in <b>Applied ML</b>, <b>Data Science</b> and <b>Python Backends</b> --> Messy Data In -> Reliable Predictions Out -> Deployed APIs.<br>
+  I care deeply about the fundamentals: clean feature engineering, rigorous evaluation, and shipping code that works.
+</p>
 
 ---
 
@@ -105,7 +97,6 @@
 >
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) [![Live](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com)
 
-
 ---
 
 ### 📊 GitHub Activity
@@ -120,10 +111,10 @@
 
 ---
 
-<div align="center">
+<p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=debarnabdas007&icon=5&color=2" />
   </a>
-</div>
-
-![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square)
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat" alt="Profile views" />
+</p>
