@@ -134,3 +134,10 @@
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square)
+
+---
+
+> *"Don’t just use AI. Understand it. Build it. Deploy it."*
+    
+  </a>
+</div>
