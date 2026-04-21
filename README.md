@@ -81,9 +81,9 @@
 ---
 ### 🚀 Engineered Solutions
 
-* 🚦 **[Traffic-IQ: Edge AI Analytics](https://github.com/debarnabdas007/Traffic-IQ)** – Real-time vehicle counting pipeline optimized for CPU-bound edge devices (`OpenCV`, `FastAPI`).
-* ✈️ **[AEGIS AERO: Predictive Maintenance](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction)** – Jet engine RUL estimation solving "Cold Start" inference failures (`XGBoost`, `Flask`). [[Live](https://aircraft-engine-rul-prediction.onrender.com)]
-* 🏙️ **[Sahayak: Civic Intelligence Platform](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator)** – Automated infrastructure reporting and triage powered by GenAI (`Gemini API`). [[Live App](https://sahayak-the-bureaucracy-automator.onrender.com)]
+- 🚦 **[Traffic-IQ: Edge AI Vehicle Analytics](YOUR_GITHUB_LINK)** – Real-time vehicle counting pipeline optimized for CPU-bound edge devices. [[Live Demo](YOUR_LIVE_LINK)]
+- ✈️ **[AEGIS AERO: Predictive Maintenance System](YOUR_GITHUB_LINK)** – Jet engine RUL estimation solving "Cold Start" inference failures. [[Live Dashboard](YOUR_LIVE_LINK)]
+- 🏙️ **[Sahayak: Civic Intelligence Platform](YOUR_GITHUB_LINK)** – Automated infrastructure reporting and triage powered by GenAI. [[Live App](YOUR_LIVE_LINK)]
 
 
 <!--
