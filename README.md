@@ -79,18 +79,11 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 
 ---
-### 📂 Engineered Solutions
+### 🚀 Engineered Solutions
 
-#### [🚦 Traffic-IQ: Edge AI Vehicle Analytics](https://github.com/debarnabdas007/Traffic-IQ)
-> Real-time vehicle counting pipeline optimized for CPU-bound edge devices.
-
-#### [✈️ AEGIS AERO: Predictive Maintenance Engine](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction)
-> Jet engine RUL estimation solving "Cold Start" inference failures.
- **[View Live Dashboard](https://aircraft-engine-rul-prediction.onrender.com)**
-
-#### [🏙️ Sahayak: Civic Intelligence Platform](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator)
-> Automated infrastructure reporting and triage powered by GenAI.
- **[View Live App]([YOUR_LIVE_LINK](https://sahayak-the-bureaucracy-automator.onrender.com))**
+* 🚦 **[Traffic-IQ: Edge AI Analytics](https://github.com/debarnabdas007/Traffic-IQ)** – Real-time vehicle counting pipeline optimized for CPU-bound edge devices (`OpenCV`, `FastAPI`).
+* ✈️ **[AEGIS AERO: Predictive Maintenance](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction)** – Jet engine RUL estimation solving "Cold Start" inference failures (`XGBoost`, `Flask`). [[Live](https://aircraft-engine-rul-prediction.onrender.com)]
+* 🏙️ **[Sahayak: Civic Intelligence Platform](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator)** – Automated infrastructure reporting and triage powered by GenAI (`Gemini API`). [[Live App](https://sahayak-the-bureaucracy-automator.onrender.com)]
 
 
 <!--
