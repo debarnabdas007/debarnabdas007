@@ -11,7 +11,7 @@
   <a href="https://github.com/debarnabdas007">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:dasdebarnab321@gmail.com">
+  <a href="mailto:dasdebarnab222@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://kaggle.com/">
@@ -82,6 +82,14 @@
 
 ---
 
+### 🧩 What I’m Working On
+- Improving model inference efficiency
+- Learning system design for ML APIs
+- Practicing DSA for backend roles
+
+👉 Shows growth mindset (recruiters love this)
+
+---
 ### 🚀 Engineered Solutions
 
 #### 🚦 **Traffic-IQ: Edge AI Vehicle Analytics**
