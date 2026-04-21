@@ -79,14 +79,7 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 
 ---
-### 🚀 Engineered Solutions
 
-- 🚦 **[Traffic-IQ: Edge AI Vehicle Analytics](YOUR_GITHUB_LINK)** – Real-time vehicle counting pipeline optimized for CPU-bound edge devices. [[Live Demo](YOUR_LIVE_LINK)]
-- ✈️ **[AEGIS AERO: Predictive Maintenance System](YOUR_GITHUB_LINK)** – Jet engine RUL estimation solving "Cold Start" inference failures. [[Live Dashboard](YOUR_LIVE_LINK)]
-- 🏙️ **[Sahayak: Civic Intelligence Platform](YOUR_GITHUB_LINK)** – Automated infrastructure reporting and triage powered by GenAI. [[Live App](YOUR_LIVE_LINK)]
-
-
-<!--
 ### 🚀 Engineered Solutions
 
 #### 🚦 **Traffic-IQ: Edge AI Vehicle Analytics**
@@ -115,8 +108,6 @@
 > * **Impact:** Fully automated categorization and entity extraction for authority dashboards.
 >
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) [![Live](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com)
-
--->
 
 
 ---
