@@ -81,13 +81,6 @@
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 
 ---
-
-### 🧩 What I’m Working On
-- Improving model inference efficiency
-- Learning system design for ML APIs
-- Practicing DSA for backend roles
-
----
 ### 🚀 Engineered Solutions
 
 #### 🚦 **Traffic-IQ: Edge AI Vehicle Analytics**
