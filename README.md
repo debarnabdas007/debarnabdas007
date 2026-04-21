@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Debarnab</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=Applied+ML+%26+Backend+Engineer;DL+%7C+NLP+%7C+Transformers+%7C+Computer+Vision+%7C+FastAPI;Optimizing+Inference+for+Edge+Devices;Building+Resilient+APIs+That+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=Applied+ML+%26+Backend+Engineer;DL+%7C+NLP+%7C+Computer+Vision+%7C+FastAPI;Optimizing+Inference+for+Edge+Devices;Building+Resilient+APIs+That+Scale" alt="Typing SVG" />
 </p>
 
 <div align="center">
