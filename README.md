@@ -83,15 +83,14 @@
 
 #### [🚦 Traffic-IQ: Edge AI Vehicle Analytics](https://github.com/debarnabdas007/Traffic-IQ)
 > Real-time vehicle counting pipeline optimized for CPU-bound edge devices.
-> ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) • 
 
-#### [✈️ AEGIS AERO: Predictive Maintenance Engine]https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction)
+#### [✈️ AEGIS AERO: Predictive Maintenance Engine](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction)
 > Jet engine RUL estimation solving "Cold Start" inference failures.
-> ![XGBoost](https://img.shields.io/badge/-XGBoost-EB362A?style=flat-square&logo=xgboost&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) • **[View Live Dashboard](https://aircraft-engine-rul-prediction.onrender.com)**
+ **[View Live Dashboard](https://aircraft-engine-rul-prediction.onrender.com)**
 
 #### [🏙️ Sahayak: Civic Intelligence Platform](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator)
 > Automated infrastructure reporting and triage powered by GenAI.
-> ![Gemini API](https://img.shields.io/badge/-Gemini_API-8E75B2?style=flat-square&logo=google&logoColor=white) ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) • **[View Live App]([YOUR_LIVE_LINK](https://sahayak-the-bureaucracy-automator.onrender.com))**
+ **[View Live App]([YOUR_LIVE_LINK](https://sahayak-the-bureaucracy-automator.onrender.com))**
 
 
 <!--
