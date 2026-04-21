@@ -87,8 +87,6 @@
 - Learning system design for ML APIs
 - Practicing DSA for backend roles
 
-👉 Shows growth mindset (recruiters love this)
-
 ---
 ### 🚀 Engineered Solutions
 
