@@ -83,33 +83,33 @@
 ---
 ### 🚀 Engineered Solutions
 
-#### 🚦 **Traffic-IQ: Edge AI Vehicle Analytics**
-> *Real-time vehicle counting optimized for CPU-bound edge devices.*
->
-> **The Engineering Challenge:** Deep Learning models were too heavy for edge deployment without GPUs.
-> * **Solution:** Engineered a lightweight classical pipeline using **MOG2 background subtraction** + **KNN**.
-> * **Impact:** Achieved **88% Accuracy** with sub-second latency on standard CPUs.
->
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Traffic-IQ) 
+#### 🚦 Traffic-IQ — Edge AI Vehicle Analytics
+Low-latency vehicle counting pipeline for CPU-only environments  
+• Built with FastAPI + OpenCV (MOG2 + KNN)  
+• Eliminated GPU dependency, optimized for edge deployment  
+• 88% accuracy with sub-second inference  
 
-#### ✈️ **AEGIS AERO: Predictive Maintenance Engine**
-> *End-to-end ML pipeline: Estimating Jet Engine Remaining Useful Life (RUL) with high precision under strict cloud constraints.*
->
-> * **Signal Isolation (Noisy Sensors):** Engineered **42** temporal features—including **rolling window** statistics and lag-based slopes—to extract non-linear engine degradation trends from raw sensor data.
-> * **Cold-Start Inference:** Designed a **steady-state assumption pipeline** to dynamically simulate historical context, preventing backend crashes during single-row user inputs.
-> * **Impact:** Shrank the serialized artifact by **96% (162MB to 5.5MB)** to enable deployment via a Flask backend, while maintaining a robust **44.05 RMSE**.
->
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction.git) [![Live](https://img.shields.io/badge/Live_Dashboard-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aircraft-engine-rul-prediction.onrender.com)
+[View Code](https://github.com/debarnabdas007/Traffic-IQ)
 
-#### 🏙️ **Sahayak: Civic Intelligence Platform**
-> *Automated infrastructure reporting system powered by GenAI.*
->
-> **The Engineering Challenge:** Unstructured user reports made manual triage impossible at scale.
-> * **Solution:** Integrated **Google Gemini API** to parse text and **OpenStreetMap** for precise geolocation.
-> * **Impact:** Fully automated categorization and entity extraction for authority dashboards.
->
-> [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) [![Live](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com)
+---
 
+#### ✈️ AEGIS AERO — Predictive Maintenance
+End-to-end ML system for jet engine RUL prediction  
+• Engineered 42 temporal features from sensor data  
+• Reduced model size by 96% (162MB → 5.5MB) for deployment  
+• RMSE: 44.05 | Deployed via Flask (Render)  
+
+[Code](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction) | [Live](https://aircraft-engine-rul-prediction.onrender.com)
+
+---
+
+#### 🏙️ Sahayak — Civic Intelligence Platform
+AI-powered system for automated civic issue reporting  
+• Used Gemini API for text parsing + OpenStreetMap for geo-tagging  
+• Automated classification & entity extraction pipeline  
+• Built scalable Flask backend with API handling  
+
+[Code](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) | [Live](https://sahayak-the-bureaucracy-automator.onrender.com)
 
 ---
 
