@@ -122,7 +122,6 @@
 </p>
 
 ---
-
 <div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=debarnabdas007&icon=5&color=2" />
@@ -130,7 +129,6 @@
 </div>
 
 ![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square)
-
 ---
 
 > *"Don’t just use AI. Understand it. Build it. Deploy it."*
