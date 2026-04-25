@@ -90,7 +90,7 @@
 | 🚦 **1. Traffic-IQ: Edge AI Vehicle Analytics** | `FastAPI` `OpenCV` `Scikit-learn` | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Traffic-IQ) |
 | ✈️ **2. AEGIS AERO: Predictive Maintenance System** | `XGBoost` `Flask` `Python` | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction.git) &nbsp; [![Live](https://img.shields.io/badge/Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aircraft-engine-rul-prediction.onrender.com) |
 | 🏙️ **3. Sahayak: Civic Intelligence Platform** | `Gemini API` `Flask` `Python` | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) &nbsp; [![Live](https://img.shields.io/badge/Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com) |
-| ✍️ **4. Hand-Digit Recognition Pipeline** *(Built from scratch)* | `PyTorch` `FastAPI` `Python` | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](#) &nbsp; [![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](#) |
+| ✍️ **4. Hand-Digit Recognition Pipeline** *(Built from scratch)* | `PyTorch` `FastAPI` `Python` | [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](#) &nbsp; [![Live](https://img.shields.io/badge/Live-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=000)](#) |
 
 <!--
 ### 🚀 Engineered Solutions
