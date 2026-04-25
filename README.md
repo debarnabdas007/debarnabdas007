@@ -82,6 +82,16 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 ---
+
+### 🚀 Engineered Solutions
+
+1. **Traffic-IQ: Edge AI Vehicle Analytics** &nbsp;&nbsp;➔&nbsp;&nbsp; [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Traffic-IQ) 
+2. **AEGIS AERO: Predictive Maintenance Engine** &nbsp;&nbsp;➔&nbsp;&nbsp; [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Aircraft-Engine-RUL-prediction.git) [![Live](https://img.shields.io/badge/Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://aircraft-engine-rul-prediction.onrender.com)
+3. **Sahayak: Civic Intelligence Platform** &nbsp;&nbsp;➔&nbsp;&nbsp; [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) [![Live](https://img.shields.io/badge/Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com)
+4. **Hand-Digit Recognition Pipeline (Built from scratch)** &nbsp;&nbsp;➔&nbsp;&nbsp; [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](#) [![Live](https://img.shields.io/badge/Live_App-46E3B7?style=flat-square&logo=render&logoColor=white)](#)
+
+
+<!--
 ### 🚀 Engineered Solutions
 
 #### 🚦 **Traffic-IQ: Edge AI Vehicle Analytics**
@@ -110,6 +120,7 @@
 > * **Impact:** Fully automated categorization and entity extraction for authority dashboards.
 >
 > [![Repo](https://img.shields.io/badge/View_Code-GitHub-181717?style=flat-square&logo=github)](https://github.com/debarnabdas007/Sahayak-The-Bureaucracy-Automator) [![Live](https://img.shields.io/badge/Live_App-Render-46E3B7?style=flat-square&logo=render&logoColor=white)](https://sahayak-the-bureaucracy-automator.onrender.com)
+-->
 
 ### 📊 GitHub Activity
 
