@@ -133,7 +133,7 @@
 
 - Core Team Member selected after review  
 - Hands-on exposure to Linux CLI and core networking fundamentals  
-- Explored web vulnerabilities (SQL Injection) via labs (Kali, VMware, TryHackMe, CTFs)  
+- Explored web vulnerabilities (like SQL Injection and more..) via labs (Kali, VMware, TryHackMe, CTFs)  
 - Applied systems-level understanding to secure API development and deployments  
 
 </td>
