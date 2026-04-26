@@ -132,8 +132,9 @@
 <td width="60%">
 
 - Core Team Member (2024–25)  
-- Exposure to Linux CLI & networking fundamentals  
-- Explored web vulnerabilities through hands-on labs  
+- Hands-on exposure to Linux CLI and core networking fundamentals  
+- Explored web vulnerabilities (e.g., SQL Injection) via labs (Kali, VMware, TryHackMe, CTFs)  
+- Applied systems-level understanding to secure API development and deployments  
 
 </td>
 <td width="40%" align="center">
