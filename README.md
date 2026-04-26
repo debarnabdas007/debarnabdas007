@@ -14,7 +14,7 @@
   <a href="mailto:dasdebarnab222@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/">
+  <a href="https://www.kaggle.com/debarnabkaggle">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
   </a>
 </div>
