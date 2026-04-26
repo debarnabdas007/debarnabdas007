@@ -127,7 +127,7 @@
 
 ### GDG On Campus – Cybersecurity Wing (2024–25)
 
-Core Team Member; exposure to Linux CLI, networking fundamentals, and common web vulnerabilities through hands-on labs (VMware, Kali, TryHackMe, CTFs).
+Core Team Member; exposure to Linux CLI, networking fundamentals, and web vulnerabilities, with hands-on labs.
 
 <a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg" target="_blank">
   <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" alt="GDG Selection Letter" width="200"/>
