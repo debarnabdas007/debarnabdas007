@@ -125,9 +125,9 @@
 ---
 ## 📌 Experience
 
-### GDG On Campus – Cybersecurity Team (2024–25)
+### GDG On Campus – Cybersecurity Wing (2024–25)
 
-Selected as a Core Team Member after a review process.
+Core Team Member; exposure to Linux CLI, networking fundamentals, and common web vulnerabilities through hands-on labs (VMware, Kali, TryHackMe, CTFs).
 
 <a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg" target="_blank">
   <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" alt="GDG Selection Letter" width="200"/>
