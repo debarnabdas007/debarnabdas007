@@ -130,7 +130,7 @@
 Selected as a Core Team Member after a review process.
 
 <a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg" target="_blank">
-  <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" alt="GDG Selection Letter" width="250"/>
+  <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" alt="GDG Selection Letter" width="200"/>
 </a>
 
 ---
