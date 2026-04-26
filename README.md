@@ -124,6 +124,17 @@
 -->
 ---
 
+## 🏆 Achievements
+
+### GDG On Campus – Cybersecurity Team (2024–25)
+
+Selected as a Core Team Member after a review process.
+
+<a href="./assets/GDG_onboarding_letter" target="_blank">
+  <img src="./assets/GDG_onboarding_letter_CyberSecurity" alt="GDG Selection Letter" width="500"/>
+</a>
+
+---
 ### 📊 GitHub Activity
 
 <p align="center">
