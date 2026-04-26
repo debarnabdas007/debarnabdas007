@@ -33,7 +33,7 @@
 
 ---
 
-### ⚡ Technical Arsenal
+## ⚡ Technical Arsenal
 
 **👨‍💻 Languages**
 <br>
@@ -149,7 +149,7 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=debarnabdas007&show_icons=true&theme=tokyonight&hide_border=true" />
