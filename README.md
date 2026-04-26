@@ -127,11 +127,24 @@
 
 ### GDG On Campus – Cybersecurity Wing (2024–25)
 
-Core Team Member; exposure to Linux CLI, networking fundamentals, and web vulnerabilities, with hands-on labs.
+<table>
+<tr>
+<td width="60%">
 
-<a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg" target="_blank">
-  <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" alt="GDG Selection Letter" width="200"/>
+- Core Team Member (2024–25)  
+- Exposure to Linux CLI & networking fundamentals  
+- Explored web vulnerabilities through hands-on labs  
+
+</td>
+<td width="40%" align="center">
+
+<a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg">
+  <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" width="180"/>
 </a>
+
+</td>
+</tr>
+</table>
 
 ---
 
