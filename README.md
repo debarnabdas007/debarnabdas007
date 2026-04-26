@@ -124,17 +124,7 @@
 -->
 ---
 
-## 🏆 Achievements
 
-### GDG On Campus – Cybersecurity Team (2024–25)
-
-Selected as a Core Team Member after a review process.
-
-<a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg" target="_blank">
-  <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" alt="GDG Selection Letter" width="250"/>
-</a>
-
----
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -146,6 +136,19 @@ Selected as a Core Team Member after a review process.
   <img src="https://streak-stats.demolab.com?user=debarnabdas007&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+## 📌 Involvement
+
+### GDG On Campus – Cybersecurity Team (2024–25)
+
+<p align="center">
+  <a href="./assets/GDG_onboarding_letter_CyberSecurity.jpg">
+    <img src="./assets/GDG_onboarding_letter_CyberSecurity.jpg" width="200"/>
+  </a>
+</p>
+
+---
 ---
 <div align="center">
   <a href="https://visitcount.itsvg.in">
