@@ -170,7 +170,7 @@
 ---
 
 <div align="center">
-  <i>"Talk is cheap. Turning raw maths into mercilessly fast APIs."</i>
+  <i>"Talk is cheap. I turn raw maths into mercilessly fast APIs."</i>
 </div>
     
   </a>
