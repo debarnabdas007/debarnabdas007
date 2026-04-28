@@ -152,8 +152,40 @@
 ## 📊 GitHub Activity
 
 <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=debarnabdas007&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=debarnabdas007&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&v=1001" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=debarnabdas007&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<br>
+
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=debarnabdas007&icon=5&color=2" alt="Visit Count" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<p align="center">
+  <img src="https://github.com/yusufyusie/yusufyusie/raw/main/line.gif" alt="divider" style="max-width: 100%; display: inline-block;"/>
+</p>
+
+<div align="center">
+  <i>"Don’t just use AI. Understand it. Build it. Deploy it."</i>
+</div>
+
+
+<!--
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=debarnabdas007&show_icons=true&theme=tokyonight&hide_border=true" />
-  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=999" />  -->
+  <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&v=999" />  
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=debarnabdas007&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&v=1001" />
 </p>
 <p align="center">
@@ -173,4 +205,4 @@
     
   </a>
 </div>
-
+-->
