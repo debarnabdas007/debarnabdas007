@@ -169,7 +169,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square)
 ---
 
-> *Turning raw math into mercilessly fast APIs.*
+<div align="center">
+  <i>"Talk is cheap. Turning raw maths into mercilessly fast APIs."</i>
+</div>
     
   </a>
 </div>
