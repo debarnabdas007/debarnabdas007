@@ -169,8 +169,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=debarnabdas007&color=blueviolet&style=flat-square)
 ---
 
-<br>
-
 <div align="center">
   <i>"Talk is cheap. I turn raw maths into ruthless APIs."</i>
 </div>
