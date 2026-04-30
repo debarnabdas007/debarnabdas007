@@ -1,8 +1,19 @@
-<!-- <h1 align="center">Hey 👋, I'm Debarnab</h1> -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Debarnab%20Das&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20ML%20%26%20Backend%20Engineer%20%7C%20Building%20Deployable%20Systems&descAlignY=55&descSize=16" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=Applied+ML+%26+Backend+Engineer;DL+%7C+NLP+%7C+Computer+Vision+%7C+FastAPI;Optimizing+Inference+for+Edge+Devices;Building+Resilient+APIs+That+Scale" alt="Typing SVG" />
+
+</div>
+
+
+
+<!-- <h1 align="center">Hey 👋, I'm Debarnab</h1> 
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=20BEFF&center=true&vCenter=true&width=700&lines=Applied+ML+%26+Backend+Engineer;DL+%7C+NLP+%7C+Computer+Vision+%7C+FastAPI;Optimizing+Inference+for+Edge+Devices;Building+Resilient+APIs+That+Scale" alt="Typing SVG" />
 </p>
+-->
 
 <div align="center">
   <a href="https://linkedin.com/in/debarnab-das-5363942a0">
