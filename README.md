@@ -171,7 +171,7 @@
 ---
 
 <div align="center">
-  <i>"Turning raw maths into ruthless APIs."</i>
+  <i>"Turning raw maths into ruthless APIs ⚡"</i>
 </div>
     
   </a>
